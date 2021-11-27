@@ -4,6 +4,7 @@
 2. Buat VM untuk Windows Server 2022, kemudian start
 3. Pilih Bahasa yang ingin digunakan, kemudian klik "Install Now"
   ![1](https://user-images.githubusercontent.com/92453574/143671943-408c3574-8884-4b77-9c42-6adbe9c8b904.PNG)
+  
   ![2](https://user-images.githubusercontent.com/92453574/143671958-f171156f-045c-4038-9866-56fc492b3f30.PNG)
 
 4. Pilih sistem operasi yang ingin digunakan biasanya lebih ke CLI atau GUI, kemudian klik "Next"
@@ -42,6 +43,7 @@
 
 16. "Install" dan tunggu sampai instalasi selesai
   ![14](https://user-images.githubusercontent.com/92453574/143672166-1abf872a-3a55-413b-b3a9-3e84271cbb1e.PNG)
+  
   ![15](https://user-images.githubusercontent.com/92453574/143672183-e4c4f30c-7031-4a01-a034-c68448015962.PNG)
 
 17. Pilih "Reboot Now" dan "Finish"
