@@ -69,7 +69,7 @@
 6. Centang "Active Directory Domain Service" dan klik "Add Features"
   ![6](https://user-images.githubusercontent.com/92453574/143672423-caaeaf66-5d47-4456-87bf-421241ad6553.PNG)
   ![7](https://user-images.githubusercontent.com/92453574/143672421-92d8d6d9-aed1-4887-b3dc-57c3ca491785.PNG)
-
+  </n>
 7. Centang juga "Group Policy Management" dan "Next"
   ![9](https://user-images.githubusercontent.com/92453574/143672509-ac8ed0ff-c125-4d63-bb39-940c259e00b8.PNG)
 
@@ -91,7 +91,7 @@
 2. Centang "DNS Server" dan klik "Add features"
   ![1](https://user-images.githubusercontent.com/92453574/143672546-5318eb1b-b504-4fa9-9dc5-7da08c98aa17.PNG)
   ![2](https://user-images.githubusercontent.com/92453574/143672554-d01e29ed-33ba-4bf4-8c20-1e99176e342a.PNG)
-
+  
 3. Centang “.NET Framework 3.5 features"
   ![4](https://user-images.githubusercontent.com/92453574/143672593-f565f8e3-cb72-49d2-97da-6664e84d44a5.PNG)
 
