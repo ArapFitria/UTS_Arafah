@@ -77,7 +77,6 @@
   ![9](https://user-images.githubusercontent.com/92453574/143672509-ac8ed0ff-c125-4d63-bb39-940c259e00b8.PNG)
 
 8. "Next"
-``` 
   ![10](https://user-images.githubusercontent.com/92453574/143672515-8d1df8ff-a327-4e8d-a4f7-41ebd8551e16.PNG)
 
 9. dan "Install"
