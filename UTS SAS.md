@@ -3,6 +3,7 @@
 1. Download ISO Windows Server 2022
 2. Buat VM untuk Windows Server 2022, kemudian start
 3. Pilih Bahasa yang ingin digunakan, kemudian klik "Install Now"
+
   ![1](https://user-images.githubusercontent.com/92453574/143671943-408c3574-8884-4b77-9c42-6adbe9c8b904.PNG)
   ![2](https://user-images.githubusercontent.com/92453574/143671958-f171156f-045c-4038-9866-56fc492b3f30.PNG)
 
@@ -10,9 +11,11 @@
   ![3](https://user-images.githubusercontent.com/92453574/143672001-ee16ff7e-cd56-4dc1-8ec0-4a05a1a2659a.PNG)
 
 5. Agar bisa lanjut ke taha semua, centang pada kolom accept dan klik "Next"
+
   ![4](https://user-images.githubusercontent.com/92453574/143672006-26c76ddb-0795-482a-b58a-4a21d5a7b94a.PNG)
 
 6. Pada langkah ini saya tidak membagi partisi, dan langsung klik "Next"
+
   ![6](https://user-images.githubusercontent.com/92453574/143672069-27c369f2-507c-449c-bee8-9e27af310c58.PNG)
 
 7. Tunggu sampai instalasi selesai
