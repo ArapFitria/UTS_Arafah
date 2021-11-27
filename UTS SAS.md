@@ -72,11 +72,12 @@
 6. Centang "Active Directory Domain Service" dan klik "Add Features"
   ![6](https://user-images.githubusercontent.com/92453574/143672423-caaeaf66-5d47-4456-87bf-421241ad6553.PNG)
   ![7](https://user-images.githubusercontent.com/92453574/143672421-92d8d6d9-aed1-4887-b3dc-57c3ca491785.PNG)
-  </n>
+  
 7. Centang juga "Group Policy Management" dan "Next"
   ![9](https://user-images.githubusercontent.com/92453574/143672509-ac8ed0ff-c125-4d63-bb39-940c259e00b8.PNG)
 
 8. "Next"
+``` 
   ![10](https://user-images.githubusercontent.com/92453574/143672515-8d1df8ff-a327-4e8d-a4f7-41ebd8551e16.PNG)
 
 9. dan "Install"
