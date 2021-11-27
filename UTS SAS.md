@@ -35,16 +35,16 @@
   ![11](https://user-images.githubusercontent.com/92453574/143672131-ae153b1e-0b80-494f-a0f5-f3fd631697e7.PNG)
 
 
-14. "Next" </n>
+14. "Next"
   ![12](https://user-images.githubusercontent.com/92453574/143672136-60897824-7c1f-450a-b9b7-6d76f8858921.PNG)
 
 
-15. "Next" </n>
+15. "Next"
   ![13](https://user-images.githubusercontent.com/92453574/143672141-ca369a2b-a1f9-4809-afa9-79d9f194fb44.PNG)
 
 
-16. "Install" dan tunggu sampai instalasi selesai </n>
-  ![14](https://user-images.githubusercontent.com/92453574/143672166-1abf872a-3a55-413b-b3a9-3e84271cbb1e.PNG) </n>
+16. "Install" dan tunggu sampai instalasi selesai
+  ![14](https://user-images.githubusercontent.com/92453574/143672166-1abf872a-3a55-413b-b3a9-3e84271cbb1e.PNG)
   ![15](https://user-images.githubusercontent.com/92453574/143672183-e4c4f30c-7031-4a01-a034-c68448015962.PNG)
 
 17. Pilih "Reboot Now" dan "Finish"
